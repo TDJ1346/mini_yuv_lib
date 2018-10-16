@@ -5,7 +5,6 @@ Function:
 
 Description:
 	1.scale source from libyuv.
-
 	2.convert yuv to jpg without libjpeg, you can convert normal-image(YCbCr)
 to jpg by open "UV_PARAM", convert grey-image(Y) to jpg by close "UV_PARAM".The
 macro defination at yuv2jpg.h.
